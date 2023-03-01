@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 412f24ffc81c6441ab0f3e8a610821f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spherePanel: {instanceID: 0}
+  - circle: {fileID: 8282711578519274582, guid: 511e16864d0744c0087013a3c02f0ab6, type: 3}
+  - timerText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
